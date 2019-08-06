@@ -8,7 +8,7 @@ Parameters:
     Default: "10.0.0.0/16"
   Bucket:
     Type: String
-    Default: "erupar-operations"
+    Default: "cfn-operations"
     # Default: "cerulean-operations"
 
 Resources:
